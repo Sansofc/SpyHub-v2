@@ -1,4 +1,4 @@
-SpyBub
+SpyBub v2
 -- Serviços
 local Players = game:GetService("Players")
 local StarterGui = game:GetService("StarterGui")
